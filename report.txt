@@ -1,0 +1,10 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp1000.grading.LA2aGrading#testNumSides: +20
+edu.wit.cs.comp1000.grading.LA2aGrading#testSideLength: +20
+edu.wit.cs.comp1000.grading.LA2aGrading#testInt: +30
+edu.wit.cs.comp1000.grading.LA2aGrading#testDec: +30
+
+== ontime ==
+ontime: +0
